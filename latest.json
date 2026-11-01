@@ -1,0 +1,21 @@
+{
+  "version": "0.3.0",
+  "critical": false,
+  "date": "2026-11-01",
+  "notes": {
+    "pl": "Nowy wygląd, polski i angielski, nowe ustawienia i automatyczne aktualizacje.",
+    "en": "New design, Polish and English, new settings and automatic updates."
+  },
+  "platforms": {
+    "linux-x86_64": {
+      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.3.0/patina-0.3.0-linux-x86_64.zip",
+      "sha256": "412ce9211b82b35f952231c33c88c0b2fc728c271550ebc562fade5f0cc095c3",
+      "size": 32241188
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.3.0/patina-0.3.0-windows-x86_64.zip",
+      "sha256": "419091d1738830ad3b97b5d4b5cef6ec562b9e077ab3f5f66f5ddcd9e59717aa",
+      "size": 28326205
+    }
+  }
+}
