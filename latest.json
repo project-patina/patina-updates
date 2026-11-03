@@ -1,21 +1,21 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "critical": false,
-  "date": "2026-11-01",
+  "date": "2026-11-03",
   "notes": {
-    "pl": "Nowy wygląd, polski i angielski, nowe ustawienia i automatyczne aktualizacje.",
-    "en": "New design, Polish and English, new settings and automatic updates."
+    "pl": "Nowa sekcja Serwery, edytor HUD-u w kliencie Patina, klient Rust wygląda jak mod Fabric, poprawka znikającego skina na serwerach.",
+    "en": "A new Servers page, a HUD editor in the Patina Client, the Rust client now looks like the Fabric mod, and a fix for skins vanishing on servers."
   },
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.3.0/patina-0.3.0-linux-x86_64.zip",
-      "sha256": "412ce9211b82b35f952231c33c88c0b2fc728c271550ebc562fade5f0cc095c3",
-      "size": 32241188
+      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.0/patina-0.4.0-linux-x86_64.zip",
+      "sha256": "ad722fa65d877654b0ff7d07f4c86498a20b40a8c8572aea3070645ec93b1ea0",
+      "size": 32672032
     },
     "windows-x86_64": {
-      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.3.0/patina-0.3.0-windows-x86_64.zip",
-      "sha256": "419091d1738830ad3b97b5d4b5cef6ec562b9e077ab3f5f66f5ddcd9e59717aa",
-      "size": 28326205
+      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.0/patina-0.4.0-windows-x86_64.zip",
+      "sha256": "0616fdb397e7891f1340d4db4e64a7b333c2e8503810e2180d63af7baceff833",
+      "size": 28784355
     }
   }
 }
