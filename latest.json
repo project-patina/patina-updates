@@ -1,21 +1,21 @@
 {
-  "version": "0.4.2",
+  "version": "0.4.3",
   "critical": false,
   "date": "2026-11-04",
   "notes": {
-    "pl": "Poprawka: animacja w oknie aktualizacji nie ma już krzywych kwadratów i czarnych linii — to teraz ta sama animacja co przy ładowaniu gry.",
-    "en": "Fix: the update screen's animation no longer draws skewed squares and dark lines — it is now the same animation the game shows while loading."
+    "pl": "Aktywność na Discordzie: znajomi widzą, co robisz w launcherze i w grze (menu, świat, serwer). Naprawiono aktualizację launchera na Windowsie (błąd „Access is denied”).",
+    "en": "Discord activity: friends see what you do in the launcher and in game (menu, world, server). Fixed updating the launcher on Windows (\"Access is denied\")."
   },
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.2/patina-0.4.2-linux-x86_64.zip",
-      "sha256": "038f1bf9d02717a4a425166832545f526c0442db54b60121f741bca7f85c7cea",
-      "size": 32880593
+      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.3/patina-0.4.3-linux-x86_64.zip",
+      "sha256": "ad33f5646b97121935341e74cf5179d5f2b0fab51af1c09b9cc3572c77ff6d61",
+      "size": 32911037
     },
     "windows-x86_64": {
-      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.2/patina-0.4.2-windows-x86_64.zip",
-      "sha256": "892b711a48eb4fe3b5323eeec70c7edbb48b647d89d8690c3b0714d9dbdf72ac",
-      "size": 28992315
+      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.3/patina-0.4.3-windows-x86_64.zip",
+      "sha256": "18298201b507d7e4a7d33d202d847616e1d3b0392633d0aedcf0e68eed63ffaf",
+      "size": 29021566
     }
   }
 }
