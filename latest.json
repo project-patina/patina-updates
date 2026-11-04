@@ -1,21 +1,21 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "critical": false,
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "notes": {
-    "pl": "Nowa sekcja Serwery, edytor HUD-u w kliencie Patina, klient Rust wygląda jak mod Fabric, poprawka znikającego skina na serwerach.",
-    "en": "A new Servers page, a HUD editor in the Patina Client, the Rust client now looks like the Fabric mod, and a fix for skins vanishing on servers."
+    "pl": "Poprawka: klient Rust znowu przygotowuje się na świeżej instalacji (błąd „is not a 26.3 version file Patina knows” po ponownej publikacji plików przez Mojang).",
+    "en": "Fix: the Rust client prepares again on a fresh install (the \"is not a 26.3 version file Patina knows\" error after Mojang republished its files)."
   },
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.0/patina-0.4.0-linux-x86_64.zip",
-      "sha256": "ad722fa65d877654b0ff7d07f4c86498a20b40a8c8572aea3070645ec93b1ea0",
-      "size": 32672032
+      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.1/patina-0.4.1-linux-x86_64.zip",
+      "sha256": "4e40189cca28faa5ccd1b0de5438ccaac0d7b647433f60e5e5591f2dd936c060",
+      "size": 32673873
     },
     "windows-x86_64": {
-      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.0/patina-0.4.0-windows-x86_64.zip",
-      "sha256": "0616fdb397e7891f1340d4db4e64a7b333c2e8503810e2180d63af7baceff833",
-      "size": 28784355
+      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.1/patina-0.4.1-windows-x86_64.zip",
+      "sha256": "cfd2c6dc38033cf92b6deebd61007d43f08e3664b11aad9861d6235cc0449015",
+      "size": 28785857
     }
   }
 }
