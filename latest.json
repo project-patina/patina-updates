@@ -1,21 +1,21 @@
 {
-  "version": "0.4.3",
-  "critical": false,
-  "date": "2026-11-04",
+  "version": "0.4.4",
+  "critical": true,
+  "date": "2026-11-05",
   "notes": {
-    "pl": "Aktywność na Discordzie: znajomi widzą, co robisz w launcherze i w grze (menu, świat, serwer). Naprawiono aktualizację launchera na Windowsie (błąd „Access is denied”).",
-    "en": "Discord activity: friends see what you do in the launcher and in game (menu, world, server). Fixed updating the launcher on Windows (\"Access is denied\")."
+    "pl": "Nowe logo: kostka z animacji ładowania, w launcherze, obu klientach i na stronie.",
+    "en": "New logo: the cube from the loading animation, in the launcher, both clients and on the site."
   },
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.3/patina-0.4.3-linux-x86_64.zip",
-      "sha256": "ad33f5646b97121935341e74cf5179d5f2b0fab51af1c09b9cc3572c77ff6d61",
-      "size": 32911037
+      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.4/patina-0.4.4-linux-x86_64.zip",
+      "sha256": "6976ffd70a63401e23b1fae641b17a8511201bb7e8feb8aa1a82a79da132f63b",
+      "size": 32911842
     },
     "windows-x86_64": {
-      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.3/patina-0.4.3-windows-x86_64.zip",
-      "sha256": "18298201b507d7e4a7d33d202d847616e1d3b0392633d0aedcf0e68eed63ffaf",
-      "size": 29021566
+      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.4/patina-0.4.4-windows-x86_64.zip",
+      "sha256": "8ef7ea06c0c2f4cc4120527abed5d753974d14e46207e71b63b63fef4162e377",
+      "size": 29028927
     }
   }
 }
