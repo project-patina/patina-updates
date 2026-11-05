@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/project-patina/patina/main/public/icon.svg" width="72" alt="Patina" />
+
 # Patina updates
 
 Release packages and the update manifest for the Patina launcher.
