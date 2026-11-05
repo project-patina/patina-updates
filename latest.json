@@ -1,21 +1,21 @@
 {
-  "version": "0.4.4",
-  "critical": true,
+  "version": "0.4.5",
+  "critical": false,
   "date": "2026-11-05",
   "notes": {
-    "pl": "Nowe logo: kostka z animacji ładowania, w launcherze, obu klientach i na stronie.",
-    "en": "New logo: the cube from the loading animation, in the launcher, both clients and on the site."
+    "pl": "Patina Client: 11 nowych modów (AppleSkin, Shulker Tooltip, Speedometer, Zoom, Ping, Perspective, Horse Stats, Status Effects, Weather Changer, Death Info, No Fog), katalog modów z wyszukiwarką i płynniejsza animacja ładowania.",
+    "en": "Patina Client: 11 new mods (AppleSkin, Shulker Tooltip, Speedometer, Zoom, Ping, Perspective, Horse Stats, Status Effects, Weather Changer, Death Info, No Fog), a searchable catalogue of mods and a smoother loading animation."
   },
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.4/patina-0.4.4-linux-x86_64.zip",
-      "sha256": "6976ffd70a63401e23b1fae641b17a8511201bb7e8feb8aa1a82a79da132f63b",
-      "size": 32911842
+      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.5/patina-0.4.5-linux-x86_64.zip",
+      "sha256": "2274b1f73d01eb514aed9d7c3571a739150bb2ac9fc1e0415b18719aae9b0324",
+      "size": 39148632
     },
     "windows-x86_64": {
-      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.4/patina-0.4.4-windows-x86_64.zip",
-      "sha256": "8ef7ea06c0c2f4cc4120527abed5d753974d14e46207e71b63b63fef4162e377",
-      "size": 29028927
+      "url": "https://github.com/project-patina/patina-updates/releases/download/v0.4.5/patina-0.4.5-windows-x86_64.zip",
+      "sha256": "7625d399ca05d333c34589029a98c0c4be505f808572899c4f5050e1b14916ac",
+      "size": 35252777
     }
   }
 }
